@@ -1,0 +1,8 @@
+Question :
+  Get count of continous suqsequence with equal number of 0s and 1s grouped together in a binary string
+  Example 
+    n='001100011'
+    ans: 0011,01,10,0011,01
+    
+    
+    
